@@ -1,0 +1,6 @@
+framework module AzerionAdsAppLovinAdapter {
+  umbrella header "AzerionAdsAppLovinAdapter.h"
+
+  export *
+  module * { export * }
+}
